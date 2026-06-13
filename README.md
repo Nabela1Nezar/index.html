@@ -10,3 +10,4 @@
 
 </body>
 </html>
+<a href="https://google.com" target="_blank">اضغطي هنا</a>
